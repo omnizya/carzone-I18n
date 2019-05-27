@@ -1,0 +1,5 @@
+#. TRANSLATORS: Please leave %s as it is, because it is needed by the program.
+#. Thank you for contributing to this project.
+#: src/name.c:36
+msgid "My name is %s.\n"
+msgstr ""
